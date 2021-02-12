@@ -1,0 +1,36 @@
+.add-btn {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 0px 5px 5px 0px;
+  outline: none;
+  background-color: white;
+}
+
+h2 {
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.add-btn:hover {
+  background-color: #333;
+  color: white;
+}
+
+.text-box {
+  padding: 8px 15px;
+  border-radius: 5px 0px 0px 5px;
+  flex: 1;
+  border: none;
+  outline: none;
+}
+.text-box:hover {
+  background-color: lightgray;
+}
+
+.text {
+  width: 100%;
+  display: flex;
+}
